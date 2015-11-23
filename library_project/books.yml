@@ -1,0 +1,9 @@
+---
+- !ruby/object:Book
+  title: 'JavaScript: The Good Parts'
+  author: Douglas Crockfor
+  category: :development
+- !ruby/object:Book
+  title: JavaScript Patterns
+  author: Stoyan Stefanov
+  category: :design
